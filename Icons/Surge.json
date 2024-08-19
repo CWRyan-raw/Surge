@@ -1,7 +1,7 @@
  "name": "SurgeIcon",
     "icons": [
      { "name": "Surge_Classical", "url": "https://raw.githubusercontent.com/CWRyan-raw/main/Surge/Icons/Surge_Classical.png"},
-     { "name": "Surge5", "url": "https://raw.githubusercontent.com/LGMjiang/Tools/main/Surge/Icons/Surge5.png"},
+     { "name": "Surge5", "url": "https://raw.githubusercontent.com/CWRyan-raw/main/Surge/Icons/Surge5.png"},
      { "name": "Surge_mini1", "url": "https://raw.githubusercontent.com/CWRyan-raw/main/Surge/Icons/surge_mini1.png"},
 
     ]
